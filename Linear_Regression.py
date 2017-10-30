@@ -56,10 +56,7 @@ class Linear_Regression():
         plt.show()
     
 
-
-# In[11]:
-
-
+#Testing Model
 iris = pd.read_csv(r'C:\Users\TeJas\Desktop\Python Practice\Machine Learning\Data\iris data\iris.data.txt')
 iris_data=iris['1']
 iris_target=iris['2']
